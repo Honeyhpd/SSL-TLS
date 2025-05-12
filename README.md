@@ -31,22 +31,28 @@ Most online tools are either limited, require constant internet, or miss critica
 
 📸 Screenshots
 1. Comparitive Analysis
+   
 ![image](https://github.com/user-attachments/assets/d03124b0-2e96-495d-99f4-0e4fb8067c4e)
+
 ![image](https://github.com/user-attachments/assets/648a870a-9621-409a-9c96-f9310507e514)
 
 
 2. Gantt Chart
+   
    ![image](https://github.com/user-attachments/assets/55753161-4df9-4d1f-bf46-4f4e23ce0cfb)
 
 
 📜 Logs & Diagrams
 Sample Output Log:
-![image](https://github.com/user-attachments/assets/0417df62-dfe1-483c-bec7-5d1cac0fcd1d)
+
+![image](https://github.com/user-attachments/assets/cf397e8d-25a1-423a-9251-eb1a4f82f573)
+
 
 
 Architecture Diagram:
 
 ![image](https://github.com/user-attachments/assets/451891d7-d805-48e7-8fd4-e73793756917)
+
 
 ⚖️ License & Disclaimer
 
